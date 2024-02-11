@@ -73,9 +73,3 @@ The analysis is organized into three main sections:
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional analyses.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace "your-username" with your GitHub username when sharing the repository. Feel free to customize the content further based on additional features or insights you want to highlight in your project.
